@@ -19,7 +19,7 @@ p=st.number_input('Enter Phosphorus:')
 k=st.number_input('Enter Potassium:')
 t=st.number_imput('Enter Temperature:')
 h=st.number_input('Enter Humidity:')
-ph=st.number_imput('Enter pH:')
+ph=st.number_input('Enter pH:')
 r=st.number_input('Enter Rainfall:')
 
 if st.button('Recommend Crop'):
